@@ -1,4 +1,4 @@
-# Jian_Zhi_Offer
+# 剑指offer
 项目地址
 -
 https://github.com/styleforme/leetcode_offer.git
